@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Atividade3Scanner {
 	public static void main(String[] args) {
 	
-		int raio = 0;
-		double PI = 3.14;
+		double raio = 0;
+		final double PI = 3.14;
 		Scanner scan;
 		
 		try {

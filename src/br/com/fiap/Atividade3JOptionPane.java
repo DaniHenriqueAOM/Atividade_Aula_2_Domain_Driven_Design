@@ -5,8 +5,7 @@ import javax.swing.JOptionPane;
 public class Atividade3JOptionPane {
 	public static void main(String[] args) {
 		
-		int raio = 0;
-		double PI = 3.14;
+		double PI = 3.14, raio = 0;
 		String aux;
 		try {
 			
